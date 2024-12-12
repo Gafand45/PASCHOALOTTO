@@ -1,0 +1,20 @@
+﻿Data,Agente,Tempo de Atendimento (minutos),Categoria do Call
+2024-12-01,Agente 1,5,BOM
+2024-12-01,Agente 2,12,BAD
+2024-12-01,Agente 2,10,BAD
+2024-12-01,Agente 3,8,BOM
+2024-12-01,Agente 3,7,BOM
+2024-12-02,Agente 1,14,BAD
+2024-12-02,Agente 2,7,BOM
+2024-12-02,Agente 3,9,BOM
+2024-12-03,Agente 1,6,BOM
+2024-12-03,Agente 2,16,BAD
+2024-12-03,Agente 3,5,BOM
+2024-12-04,Agente 1,11,BAD
+2024-12-04,Agente 1,09,BAD
+2024-12-04,Agente 2,7,BOM
+2024-12-04,Agente 3,9,BOM
+2024-12-05,Agente 1,18,BAD
+2024-12-05,Agente 2,8,BOM
+2024-12-05,Agente 3,6,BOM
+2024-12-05,Agente 3,7,BOM
